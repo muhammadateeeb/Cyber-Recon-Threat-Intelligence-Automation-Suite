@@ -33,6 +33,7 @@ source ~/.bashrc
 
 chmod +x scan.sh
 ./scan.sh target.com
+```
 
 Required Dependencies:
 
