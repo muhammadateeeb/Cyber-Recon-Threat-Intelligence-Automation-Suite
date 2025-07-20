@@ -77,21 +77,5 @@ reports/
         OSINT-Driven Vulnerability Assessments
         Cyber Threat Intelligence Automation
 
- Repository Structure
-``` bash
-cyber-recon-suite/
- ├── scan.sh
- ├── README.md
- ├── LICENSE
- └── reports/
-      └── target.com/
-           ├── asn_info.txt
-           ├── subdomains.txt
-           ├── shodan.txt
-           ├── headers.txt
-           ├── nuclei_output.txt
-           ├── aquatone/screenshots/
-           └── report_TIMESTAMP.html
-```
 - Disclaimer
 This toolkit is developed strictly for authorized penetration testing, red teaming, and academic research. Unauthorized use against systems without explicit consent is prohibited and may violate local, national, or international regulations.
