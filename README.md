@@ -1,0 +1,2 @@
+# Cyber-Recon-Threat-Intelligence-Automation-Suite
+A professional, modular reconnaissance and threat intelligence automation toolkit designed for enterprise-grade penetration testing, red teaming, and military cybersecurity operations. This tool streamlines asset enumeration, vulnerability identification, and intelligence gathering with automated reporting mapped to frameworks like MITRE ATT&amp;CK etc
